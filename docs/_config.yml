@@ -1,0 +1,25 @@
+# GitHub Pages — https://<user>.github.io/<repo>/
+# If your repo is renamed, update baseurl to match the repository name.
+title: AetherWeave Docs
+description: Design bible, player tutorial, and developer guide for The Loom of Connectivity
+baseurl: "/AetherWeave_Network_Tycoon"
+url: ""
+
+# Set to "username/repo" for correct GitHub links (footer, metadata).
+repository: jonahchang207/AetherWeave_Network_Tycoon
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
+
+# Custom site (no remote theme)
+theme: null

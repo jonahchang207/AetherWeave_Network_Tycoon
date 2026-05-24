@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "cable_types": [
+    {
+      "id": "ley_glass_multimode",
+      "display_name": "Multi-mode Ley-Glass",
+      "max_reach_km_without_repeater": 2,
+      "capacity_gbps_per_strand": 10,
+      "cost_per_km_crowns": 800
+    },
+    {
+      "id": "ley_glass_singlemode",
+      "display_name": "Single-mode Ley-Glass",
+      "max_reach_km_without_repeater": 80,
+      "capacity_gbps_per_strand": 100,
+      "cost_per_km_crowns": 2400
+    }
+  ]
+}

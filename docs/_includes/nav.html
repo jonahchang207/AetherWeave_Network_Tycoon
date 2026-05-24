@@ -1,0 +1,15 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark" aria-hidden="true">◈</span>
+      <span class="brand-text">AetherWeave</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}" class="{% if page.nav == 'home' %}active{% endif %}">Home</a>
+      <a href="{{ '/game-design/' | relative_url }}" class="{% if page.nav == 'design' %}active{% endif %}">Game Design</a>
+      <a href="{{ '/tutorial/' | relative_url }}" class="{% if page.nav == 'tutorial' %}active{% endif %}">Tutorial</a>
+      <a href="{{ '/development/' | relative_url }}" class="{% if page.nav == 'dev' %}active{% endif %}">Dev</a>
+    </nav>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false">☰</button>
+  </div>
+</header>

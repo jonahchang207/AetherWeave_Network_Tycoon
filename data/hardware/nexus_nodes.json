@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "devices": [
+    {
+      "id": "nexus_apprentice_mk1",
+      "display_name": "Apprentice Nexus",
+      "switching_capacity_tbps": 0.04,
+      "forwarding_rate_mpps": 50,
+      "buffer_mb": 64,
+      "power_kw": 2.5,
+      "cost_crowns": 12000
+    },
+    {
+      "id": "nexus_loomwright_mk2",
+      "display_name": "Loomwright Nexus",
+      "switching_capacity_tbps": 0.4,
+      "forwarding_rate_mpps": 400,
+      "buffer_mb": 512,
+      "power_kw": 18,
+      "cost_crowns": 95000
+    }
+  ]
+}
