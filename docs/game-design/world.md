@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: World & Lore
 nav: design
+section: design
 ---
 
 # World & Lore — Oertha

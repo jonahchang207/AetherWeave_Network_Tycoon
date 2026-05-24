@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Repository Map
 nav: dev
+section: dev
 ---
 
 # Repository Map

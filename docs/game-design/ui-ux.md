@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: UI & UX
 nav: design
+section: design
 ---
 
 # UI / UX Requirements

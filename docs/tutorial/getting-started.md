@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Getting Started
 nav: tutorial
+section: tutorial
 ---
 
 # Getting Started — Your First Loom

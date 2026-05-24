@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Unity & ECS
 nav: dev
+section: dev
 ---
 
 # Unity & ECS

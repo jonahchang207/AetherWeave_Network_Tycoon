@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Advanced Play
 nav: tutorial
+section: tutorial
 ---
 
 # Advanced Play

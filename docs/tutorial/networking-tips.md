@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Networking Tips
 nav: tutorial
+section: tutorial
 ---
 
 # Networking Tips

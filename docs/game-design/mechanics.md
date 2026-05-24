@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Core Mechanics
 nav: design
+section: design
 ---
 
 # Core Mechanics

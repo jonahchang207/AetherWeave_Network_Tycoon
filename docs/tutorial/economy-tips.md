@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Economy Tips
 nav: tutorial
+section: tutorial
 ---
 
 # Economy Tips

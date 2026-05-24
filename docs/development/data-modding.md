@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Data & Modding
 nav: dev
+section: dev
 ---
 
 # Data & Modding

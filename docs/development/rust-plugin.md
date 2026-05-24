@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Rust Plugin
 nav: dev
+section: dev
 ---
 
 # Rust Native Plugin

@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: GitHub Pages
 nav: dev
+section: dev
 ---
 
 # GitHub Pages — Publish This Site
@@ -72,7 +73,7 @@ Use front matter:
 
 ```yaml
 ---
-layout: default
+layout: doc
 title: Page Title
 nav: home   # home | design | tutorial | dev
 ---

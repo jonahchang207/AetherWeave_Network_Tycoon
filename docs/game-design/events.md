@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Events & Hazards
 nav: design
+section: design
 ---
 
 # Events & Hazards

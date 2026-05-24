@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Developer Setup
 nav: dev
+section: dev
 ---
 
 # Developer Setup

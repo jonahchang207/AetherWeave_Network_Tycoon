@@ -1,22 +1,9 @@
 ---
-layout: default
+layout: doc
 title: Game Design
 nav: design
+section: design
 ---
-
-<div class="doc-layout">
-<aside class="doc-sidebar">
-  <h2>Contents</h2>
-  <ul>
-    <li><a href="{{ '/game-design/' | relative_url }}">Overview</a></li>
-    <li><a href="{{ '/game-design/world/' | relative_url }}">World & Lore</a></li>
-    <li><a href="{{ '/game-design/mechanics/' | relative_url }}">Core Mechanics</a></li>
-    <li><a href="{{ '/game-design/progression/' | relative_url }}">Progression</a></li>
-    <li><a href="{{ '/game-design/ui-ux/' | relative_url }}">UI / UX</a></li>
-    <li><a href="{{ '/game-design/events/' | relative_url }}">Events & Hazards</a></li>
-  </ul>
-</aside>
-<div>
 
 # Game Design Bible
 
@@ -43,6 +30,3 @@ AetherWeave is a **highly realistic ISP and network infrastructure simulator** d
 - [Progression]({{ '/game-design/progression/' | relative_url }}) — Four phases to Tier-1
 - [UI / UX]({{ '/game-design/ui-ux/' | relative_url }}) — World map, topology view, dashboards
 - [Events & Hazards]({{ '/game-design/events/' | relative_url }}) — Dynamic challenges
-
-</div>
-</div>

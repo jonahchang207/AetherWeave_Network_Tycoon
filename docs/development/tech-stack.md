@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Tech Stack
 nav: dev
+section: dev
 ---
 
 # Technology Stack

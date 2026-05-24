@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="doc-layout">
+  {% if page.section == 'design' %}
+    {% include sidebars/design.html %}
+  {% elsif page.section == 'tutorial' %}
+    {% include sidebars/tutorial.html %}
+  {% elsif page.section == 'dev' %}
+    {% include sidebars/dev.html %}
+  {% endif %}
+  <div class="doc-main">
+    {{ content }}
+  </div>
+</div>

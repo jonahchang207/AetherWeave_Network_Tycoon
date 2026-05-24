@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Development Roadmap
 nav: dev
+section: dev
 ---
 
 # Development Roadmap

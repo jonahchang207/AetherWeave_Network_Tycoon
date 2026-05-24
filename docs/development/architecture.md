@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Architecture
 nav: dev
+section: dev
 ---
 
 # Architecture

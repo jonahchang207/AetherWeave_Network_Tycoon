@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: doc
 title: Progression
 nav: design
+section: design
 ---
 
 # Progression & Game Loop
