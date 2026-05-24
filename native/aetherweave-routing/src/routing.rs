@@ -144,6 +144,6 @@ mod tests {
         g.set_edge_up(2, false); // a -> c
         g.set_edge_up(1, false); // b -> c
         g.set_edge_up(0, false); // a -> b
-        assert_eq!(dijkstra(&g, 0, 2), Err(RoutingError::NoPath));
+        assert!(matches!(dijkstra(&g, 0, 2), Err(RoutingError::NoPath)));
     }
 }
