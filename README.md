@@ -25,8 +25,9 @@ A network-realistic ISP tycoon set in the fantasy-steampunk world of **Oertha**.
 | Audio | FMOD Studio |
 | VCS / CI | Git, Git LFS, GitHub Actions |
 
-**Documentation (GitHub Pages):** enable Pages from the `/docs` folder, then open  
-`https://<username>.github.io/AetherWeave_Network_Tycoon/` — full [game design](docs/game-design/), [tutorial](docs/tutorial/), and [dev guide](docs/development/). See [docs/development/github-pages.md](docs/development/github-pages.md).
+**Documentation:** [https://jonahchang207.github.io/AetherWeave_Network_Tycoon/](https://jonahchang207.github.io/AetherWeave_Network_Tycoon/) — game design, tutorial, and dev guide.
+
+**Repository:** [github.com/jonahchang207/AetherWeave_Network_Tycoon](https://github.com/jonahchang207/AetherWeave_Network_Tycoon)
 
 ## Prerequisites
 
